@@ -116,3 +116,6 @@ processing.log
 # Data and output files
 *.txt
 *.csv
+
+# Gemini context file
+GEMINI.md
